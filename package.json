@@ -1,0 +1,22 @@
+{
+  "name": "pemeliharaan-ac-digital",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@supabase/supabase-js": "^2.26.0",
+    "chart.js": "^4.3.0",
+    "html5-qrcode": "^2.3.7",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
